@@ -6,6 +6,8 @@ spark-learn-samples
 ##### 1. spark2.0 数据读取DataSource的扩展 主要继承BaseRelation
 ##### 2. spark2.0 数据转换器 Transfomer的扩展
 ##### 3. spark2.0 数据评估器算法 Estimater的扩展
+##### 4. spark udf udaf自定义SQL函数以及聚合函数定义
+
 
 
 ##### A.转换器的扩展  一般对数据集进行转换 可以用来特征工程的转换。
